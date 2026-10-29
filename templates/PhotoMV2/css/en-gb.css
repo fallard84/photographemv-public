@@ -1,0 +1,224 @@
+/* Title Styling English */
+
+.headline h1.title {
+	margin:0px;
+	margin-top:15px;
+}
+body.services-mariage .headline h1.title {
+	text-indent:-9999px;
+	width:265px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreMariageEN.jpg);
+}
+body.services-maternite .headline h1.title {
+	text-indent:-9999px;
+	width:292px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreMaterniteEN.jpg);
+}
+body.services-evenement .headline h1.title {
+	text-indent:-9999px;
+	width:322px;
+	height:108px;
+	background:url(../images/photomv/titres/TitreEventEN.jpg);
+}
+body.services-sports .headline h1.title {
+	text-indent:-9999px;
+	width:245px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreSportEN.jpg);
+}
+body.services-sports h2 {
+	text-indent:-9999px;
+	width:223px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreGolfEN.jpg);
+	margin-bottom:-5px;
+}
+body.services-portrait .headline h1.title {
+	text-indent:-9999px;
+	width:106px;
+	height:60px;
+	background:url(../images/photomv/titres/TitrePortraitEN.jpg);
+}
+body.services-architecture .headline h1.title {
+	text-indent:-9999px;
+	width:330px;
+	height:108px;
+	background:url(../images/photomv/titres/TitrePaysageEN.jpg);
+}
+body.services .headline h1.title {
+	text-indent:-9999px;
+	width:243px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreServicesEN.jpg);
+}
+body.apropos .headline h1.title {
+	text-indent:-9999px;
+	width:191px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreAProposEN.jpg);
+}
+body.contact .headline h1.title {
+	text-indent:-9999px;
+	width:94px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreContact.jpg);
+}
+body.blogue h1.pagetitle {
+	text-indent:-9999px;
+	width:70px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreBlogueEN.jpg);
+}
+body.temoignages .headline h1.title {
+	text-indent:-9999px;
+	width:148px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreTemoignEN.jpg);
+}
+body.forfaits .headline h1.title {
+	text-indent:-9999px;
+	width:225px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreForfaitEN.jpg);
+	margin-top:30px;
+}
+body.services-evenements .headline h1.title {
+	text-indent:-9999px;
+	width:322px;
+	height:108px;
+	background:url(../images/photomv/titres/TitreEventEN.jpg);
+}
+body.services-commercial .headline h1.title {
+	text-indent:-9999px;
+	width:317px;
+	height:108px;
+	background:url(../images/photomv/titres/TitreCommercEN.jpg);
+}
+body.services-montage .headline h1.title {
+	text-indent:-9999px;
+	width:360px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreMontageEN.jpg);
+}
+body.faq .headline h1.title {
+	text-indent:-9999px;
+	width:92px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreFaqEN.jpg);
+}
+body.conditions .headline h1.title {
+	text-indent:-9999px;
+	width:255px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreConditionEN.jpg);
+}
+body.clients .headline h1.title {
+	text-indent:-9999px;
+	width:81px;
+	height:60px;
+	background:url(../images/photomv/titres/TitreClient.jpg);
+}
+body.politique .headline h1.title {
+	text-indent:-9999px;
+	width:168px;
+	height:60px;
+	background:url(../images/photomv/titres/TitrePolitiqueEN.jpg);
+}
+body.plansite h1 {
+	text-indent:-9999px;
+	width:121px;
+	height:60px;
+	background:url(../images/photomv/titres/TitrePlanEN.jpg);
+}
+body.liens .headline h1.title {
+	text-indent:-9999px;
+	width:80px;
+	height:40px;
+	background:url(../images/photomv/titres/TitreLiensEN.jpg);
+}
+body.merci .headline h1.title {
+	text-indent:-9999px;
+	width:146px;
+	height:53px;
+	background:url(../images/photomv/titres/TitreThank.jpg);
+}
+
+/* Portfolio titles */
+
+body.portfolio-mariage h1.title {
+	background:url(../images/photomv/titres/P1EN-Wedding.jpg);
+}
+body.portfolio-maternite h1.title {
+	background:url(../images/photomv/titres/P2EN-Maternity.jpg);
+}
+body.portfolio-corporatifs h1.title {
+	background:url(../images/photomv/titres/P3EN-EventCorpo.jpg);
+}
+body.portfolio-spectacles h1.title {
+	background:url(../images/photomv/titres/P4EN-Shows.jpg);
+}
+body.portfolio-portraits h1.title {
+	background:url(../images/photomv/titres/P5EN-Portraits.jpg);
+}
+body.portfolio-sports h1.title {
+	background:url(../images/photomv/titres/P6-Sports.jpg);
+}
+body.portfolio-golf h1.title {
+	background:url(../images/photomv/titres/P7EN-Golf.jpg);
+}
+body.portfolio-paysage h1.title {
+	background:url(../images/photomv/titres/P8EN-Paysage.jpg);
+}
+body.portfolio-commercial h1.title {
+	background:url(../images/photomv/titres/P9EN-Commerc.jpg);
+}
+body.portfolio-montage h1.title {
+	background:url(../images/photomv/titres/P10EN-Setup.jpg);
+}
+
+
+/* Side block style */
+#ja-col2 .moduleside-images h3 {
+	background:url(../images/photomv/titres/ExempleEN.gif) no-repeat right;
+	width: 101px;
+	height: 30px;
+}
+body.services-montage #ja-col2 .moduleretouches h3 {
+	background:url(../images/photomv/titres/ExMontageEN1.gif) no-repeat right;
+	width: 222px;
+	height: 31px;
+}
+body.services-montage #ja-col2 .modulerestaurations h3 {
+	background:url(../images/photomv/titres/ExMontageEN2.gif) no-repeat right;
+	width: 230px;
+	height: 31px;
+}
+body.services-montage #ja-col2 .moduleside-images-2 h3 {
+	background:url(../images/photomv/titres/ExMontageEN3.gif) no-repeat right;
+	width: 138px;
+	height: 31px;
+}
+
+
+/* Footer */
+#ja-footerwrap {
+	background:url(../images/photomv/FooterEN.png) no-repeat;
+	padding: 20px 0 30px;
+	clear: both;
+	width:1000px;
+	height:298px;
+}
+
+/* Page Styling */
+
+.apropos .white-content-center, .apropos .black-side-center{
+	min-height:601px !important;
+}
+/* header */
+
+h2.logo a {
+	background: url(../images/photomv/mvlogo-en.gif) no-repeat;
+}
+
